@@ -28,3 +28,4 @@ simulaciones, visualización 3D, gamificaciones, etc.
 “El uso de estas tecnologías -realidad aumentada y virtual- permitirá avanzar hacia una educación
 superior más digitalizada y de calidad, incorporando tecnologías emergentes que hagan más
 atractivo el proceso de enseñanza y aprendizaje” (Montenegro & Fernández,2022).
+DEl grupo n4 de CD
