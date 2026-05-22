@@ -1,0 +1,34 @@
+Pasos para subir AulaSync a GitHub
+
+1. Crear el repositorio
+- Entrar a GitHub.
+- Hacer clic en New repository.
+- Nombre sugerido: AulaSync.
+- Crear el repositorio.
+
+2. Crear carpetas
+Dentro del repositorio crear:
+- imagenes
+- documentacion
+
+3. Subir archivos
+Subir estos archivos:
+- README.md en la raíz del repositorio.
+- logo.svg y boceto.svg dentro de la carpeta imagenes.
+- ideas.txt, fase_2_desarrollo.md y pasos_github.txt dentro de documentacion.
+
+4. Realizar commits
+Cada integrante debe hacer al menos una edición y un commit.
+
+Ejemplos de commits:
+- Actualiza objetivo del proyecto
+- Agrega logo de AulaSync
+- Completa documentación de ideas
+- Organiza estructura del repositorio
+
+5. Verificar la entrega
+El repositorio debe tener:
+- README.md completo.
+- Carpeta imagenes con logo, boceto o imagen representativa.
+- Carpeta documentacion con ideas.txt.
+- Historial de commits donde participe cada integrante.

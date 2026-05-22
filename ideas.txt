@@ -1,0 +1,45 @@
+AulaSync - Ideas del proyecto
+
+1. Funciones principales
+
+- Registrar actividades autónomas con fecha de vencimiento.
+- Registrar quizzes con fecha, hora y materia.
+- Registrar tareas o task publicadas por los docentes.
+- Avisar si un profesor retrasa, modifica o habilita una actividad.
+- Crear un calendario compartido del curso.
+- Permitir comentarios entre compañeros sobre cada actividad.
+- Marcar actividades como pendientes, en proceso, entregadas o modificadas.
+- Enviar recordatorios antes de la fecha límite.
+- Organizar actividades por materia y semana.
+- Guardar un historial de cambios para saber quién actualizó la información.
+
+2. Ventajas
+
+- Ayuda a todos los compañeros a estar informados.
+- Reduce la posibilidad de olvidar actividades importantes.
+- Evita que la información se pierda en chats largos.
+- Mejora la organización del curso.
+- Facilita la comunicación entre estudiantes de modalidad en línea.
+- Permite reaccionar rápido cuando un docente cambia una fecha.
+- Centraliza información sobre quizzes, tareas y actividades autónomas.
+- Favorece el trabajo colaborativo y la responsabilidad grupal.
+
+3. Posibles mejoras futuras
+
+- Conectar la app con Moodle o el calendario institucional.
+- Crear notificaciones automáticas por correo o celular.
+- Agregar un chat interno por asignatura.
+- Permitir subir capturas o evidencias de actividades.
+- Agregar filtros por materia, semana o docente.
+- Incluir inteligencia artificial para sugerir prioridades de estudio.
+- Crear una sección de preguntas frecuentes por materia.
+- Implementar una versión móvil para Android y iOS.
+- Añadir un sistema de confirmación para evitar información incorrecta.
+
+4. Ejemplo de uso
+
+Un estudiante revisa Moodle y observa que el profesor cambió la fecha de entrega de una actividad autónoma. Entra a AulaSync, actualiza la fecha, escribe un breve comentario y los demás compañeros reciben la información en el calendario compartido. De esta manera, el grupo evita confusiones y todos pueden organizarse mejor.
+
+5. Comentario final
+
+AulaSync es una propuesta tecnológica útil para estudiantes en línea porque responde a un problema real: la necesidad de organizar información académica compartida. La app no busca reemplazar las plataformas oficiales, sino servir como apoyo colaborativo entre compañeros.
