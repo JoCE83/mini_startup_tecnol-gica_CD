@@ -61,7 +61,7 @@ Si un profesor retrasa una actividad autónoma, un estudiante puede ingresar a A
 |---|---|---|
 | Vladimir Peñafiel | Líder de proyecto | Coordina el trabajo y revisa que todos los integrantes participen. |
 | Ian Nolivos | Diseñador digital | Crea el logo, boceto o imagen representativa de la app. |
-| Morys Mercado | Documentador | Redacta la información del README y los archivos de documentación. |
+| Borys Mercado | Documentador | Redacta la información del README y los archivos de documentación. |
 | Jose Cevallos | Administrador GitHub | Gestiona el repositorio, las carpetas, los archivos y los commits. |
 
 ## Archivos que debe contener el repositorio
